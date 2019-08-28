@@ -25,7 +25,7 @@
 }
 
 .slogan {
-  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace, serif;
   font-style: italic;
   padding-top: 26px;
 }
@@ -38,7 +38,7 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
-  font-family: 'courier_primebold';
+  font-family: 'courier_primebold', serif;
 }
 
 header {
@@ -50,10 +50,23 @@ hr {
 }
 
 h1 {
-  font-family: 'courier_primeregular';
+  font-family: 'courier_primeregular', serif;
   font-size: 48px;
 }
 
 h2 {
-  font-family: 'courier_primebold';
+  font-family: 'courier_primebold' serif;
+}
+
+.next-quote {
+  color: #f84342;
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace, serif;
+  font-size: 20px;
+}
+
+.footer-blurb {
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace, serif;
+  font-style: italic;
+  text-align: right;
+  font-size: 10px;
 }
