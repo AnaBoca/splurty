@@ -55,7 +55,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'courier_primebold' serif;
+  font-family: 'courier_primebold', serif;
 }
 
 .next-quote {
@@ -79,12 +79,6 @@ h2 {
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace, serif;
 }
 
-@media (max-width: 750px) {
-  .footer-blurb {
-    text-align: left;
-  }
-}
-
 .modal {
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace, serif;
 }
@@ -100,4 +94,10 @@ h2 span {
 
 body{
   overflow-x:hidden;
+}
+
+@media (max-width: 750px) {
+  .footer-blurb {
+    text-align: left;
+  }
 }
