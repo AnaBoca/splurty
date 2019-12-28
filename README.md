@@ -3,8 +3,16 @@
 A database-powered quote generator with a mobile-first design, using the Ruby on Rails framework, HTML, and CSS.
 
 
-## Home Page | Contribute Modal |  About Page
+## Home Page
 
------------- | ------------- | -------------
+![App Screenshot One](https://github.com/AnaBoca/splurty/blob/master/app/assets/images/screenshot1.PNG?raw=true)
 
-![App Screenshot One](https://github.com/AnaBoca/splurty/blob/master/app/assets/images/screenshot1.PNG?raw=true) | ![App Screenshot Two](https://github.com/AnaBoca/splurty/blob/master/app/assets/images/screenshot2.PNG) | ![App Screenshot Two](https://github.com/AnaBoca/splurty/blob/master/app/assets/images/screenshot3.PNG)
+
+## Contribute Modal
+
+![App Screenshot Two](https://github.com/AnaBoca/splurty/blob/master/app/assets/images/screenshot2.PNG)
+
+
+## About Page
+
+![App Screenshot Two](https://github.com/AnaBoca/splurty/blob/master/app/assets/images/screenshot3.PNG)
