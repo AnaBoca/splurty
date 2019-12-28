@@ -16,4 +16,3 @@ A database-powered quote generator with a mobile-first design, using the Ruby on
 ## 🗐 About Page
 
 ![App Screenshot Two](https://github.com/AnaBoca/splurty/blob/master/app/assets/images/screenshot3.jpg)
-
