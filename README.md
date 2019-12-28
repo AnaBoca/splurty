@@ -2,4 +2,4 @@
 
 A database-powered quote generator with a mobile-first design, using the Ruby on Rails framework, HTML, and CSS.
 
-<img src="/app/assets/images/screenshot1.png" alt="App Screenshot One">
+![App Screenshot One](https://github.com/AnaBoca/splurty/blob/master/app/assets/images/screenshot1.PNG?raw=true)
